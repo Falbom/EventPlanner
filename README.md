@@ -1,5 +1,10 @@
 # Projekt: VM z usługą WWW + podstawowe zabezpieczenia (AWS) — Event Planner (demo)
 
+## Autorzy
+- Grzegorz Latawiec 169576
+- Igor Guła 169784
+- Wiktoria Bzduń 169766
+
 ## Cel
 Uruchomienie maszyny wirtualnej (EC2) z usługą WWW (Nginx) oraz podstawowe zabezpieczenie dostępu i sieci.
 
